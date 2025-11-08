@@ -13,6 +13,8 @@ This project requires Python ≥ 3.x and the following libraries:
 - scikit-learn
 - jupyter
 
+All the source code for plotting and EDA is located at /src folder, while the analysis.ipynb include the walkthrough writeup to our experiment thought process and result presentation.
+
 ## Reproducing Results
 
 Once the dependencies are installed, the repository can be cloned: 
