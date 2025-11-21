@@ -1,4 +1,4 @@
-# DSC180A-Q1-Checkpoint
+# DSC180A-Q1-Project
 ## Introduction
 
 This repository contains the data and code for the Quarter 1 checkpoint. This reflects the joint efforts of Bhagya Ram and Huize Mao. 
