@@ -1,7 +1,7 @@
 # DSC180A-Q1-Project
 ## Introduction
 
-This repository contains the data and code for the Quarter 1 checkpoint. This reflects the joint efforts of Bhagya Ram and Huize Mao. The requirements.txt file located within the /API_data_extraction folder lists the software dependencies. To set up your environment, run the following command to set up your environment:
+This repository contains the data and code for the Quarter 1 checkpoint. This reflects the joint efforts of Bhagya Ram and Huize Mao. The requirements.txt file located within the /API_data_extraction folder lists the software dependencies. To set up your environment, run the following command:
 
 ```
 pip install -r requirements.txt
